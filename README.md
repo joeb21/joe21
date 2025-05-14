@@ -1,4 +1,4 @@
-# Hello, I'm Jor Boakye Serebour
+# Hello, I'm Joe Boakye Serebour
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Computer Engineering graduate with a passion for cybersecurity and solving real-world security problems. I am currently focused on transitioning into the cybersecurity domain, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -52,7 +52,7 @@ To leverage my foundational knowledge in cybersecurity and hands-on experience w
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CEH-E60000?&style=for-the-badge&logo=Hackaday&logoColor=white" />
   <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
