@@ -1,4 +1,4 @@
-# Hello, I'm Joe Boakye Serebour
+# Hello, I'm Joe 
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent Computer Engineering graduate with a passion for cybersecurity and solving real-world security problems. I am currently focused on transitioning into the cybersecurity domain, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
